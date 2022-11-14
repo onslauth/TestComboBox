@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TestComboBox (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "TestComboBox (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
